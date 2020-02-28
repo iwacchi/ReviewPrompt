@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">review_prompt</string>
+    <string name="review_prompt_title">レビューにご協力お願いいたします</string>
+    <string name="review_prompt_description">いつもご利用頂きありがとうございます。\nよくお使いになられているあなたにこのアプリをレビューして頂きたいと思っております。\n是非ともご協力お願いいたします。</string>
+    <string name="review_prompt_positive_text">レビューを書く</string>
+    <string name="review_prompt_negative_text">今回はやめておく</string>
+    <string name="review_prompt_already_reviewed">すでにレビューした</string>
+    <string name="review_prompt_thank_you_message">ご協力ありがとうございました</string>
+    <string name="close">閉じる</string>
+
+</resources>
